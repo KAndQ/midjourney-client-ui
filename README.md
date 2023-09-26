@@ -4,5 +4,6 @@
 * react
 * antd
 * electron
+* [Midjourney Commands](https://docs.midjourney.com/docs/command-list)
 
 In particular, I want to thank the midjourney-api library.
